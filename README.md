@@ -7,10 +7,6 @@
 
 Hello there! I'm Seda, and I'm diving deep into the worlds of web and mobile development. Right now, I'm focused on getting to grips with React and React Native. I'm super excited to learn how to use these tools to build cool stuff for the web and mobile devices. It's all about taking on challenges, making discoveries, and growing as a developer. Feel free to ask me anything along the way!
 
-## &#128065; Profile Views
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sedamalkocc&label=Profile%20views&color=0e75b6&style=flat" alt="sedamalkocc" /> </p>
 
 ## 🌐 Socials
 
